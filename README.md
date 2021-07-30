@@ -2,7 +2,4 @@
 
 This is a Simple Movie Recommendation App.
 
-## Requires
-```
-[Flask Mockup](https://github.com/Alien178/Flask-Mockup)
-```
+## Requires - [__Flask Mockup__](https://github.com/Alien178/Flask-Mockup)
